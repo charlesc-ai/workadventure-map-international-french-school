@@ -115,6 +115,11 @@
          "opacity":1,
          "properties":[
                 {
+                 "name":"jitsiConfig",
+                 "type":"string",
+                 "value":"{ \"startWithAudioMuted\": false, \"startWithVideoMuted\": true }"
+                }, 
+                {
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"ifs-zone-5"
@@ -137,6 +142,11 @@
          "name":"gamezone-6",
          "opacity":1,
          "properties":[
+                {
+                 "name":"jitsiConfig",
+                 "type":"string",
+                 "value":"{ \"startWithAudioMuted\": false, \"startWithVideoMuted\": true }"
+                }, 
                 {
                  "name":"jitsiRoom",
                  "type":"string",
