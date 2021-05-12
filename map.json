@@ -23,6 +23,11 @@
          "opacity":1,
          "properties":[
                 {
+                 "name":"jitsiConfig",
+                 "type":"string",
+                 "value":"{ \"startWithAudioMuted\": true, \"startWithVideoMuted\": false }"
+                }, 
+                {
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"ifs-zone-1"
@@ -45,6 +50,11 @@
          "name":"gamezone-2",
          "opacity":1,
          "properties":[
+                {
+                 "name":"jitsiConfig",
+                 "type":"string",
+                 "value":"{ \"startWithAudioMuted\": true, \"startWithVideoMuted\": false }"
+                }, 
                 {
                  "name":"jitsiRoom",
                  "type":"string",
@@ -69,6 +79,11 @@
          "opacity":1,
          "properties":[
                 {
+                 "name":"jitsiConfig",
+                 "type":"string",
+                 "value":"{ \"startWithAudioMuted\": true, \"startWithVideoMuted\": false }"
+                }, 
+                {
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"ifs-zone-3"
@@ -91,6 +106,11 @@
          "name":"gamezone-4",
          "opacity":1,
          "properties":[
+                {
+                 "name":"jitsiConfig",
+                 "type":"string",
+                 "value":"{ \"startWithAudioMuted\": true, \"startWithVideoMuted\": false }"
+                }, 
                 {
                  "name":"jitsiRoom",
                  "type":"string",
@@ -117,7 +137,7 @@
                 {
                  "name":"jitsiConfig",
                  "type":"string",
-                 "value":"{ \"startWithAudioMuted\": false, \"startWithVideoMuted\": true }"
+                 "value":"{ \"startWithAudioMuted\": true, \"startWithVideoMuted\": false }"
                 }, 
                 {
                  "name":"jitsiRoom",
@@ -145,7 +165,7 @@
                 {
                  "name":"jitsiConfig",
                  "type":"string",
-                 "value":"{ \"startWithAudioMuted\": false, \"startWithVideoMuted\": true }"
+                 "value":"{ \"startWithAudioMuted\": true, \"startWithVideoMuted\": false }"
                 }, 
                 {
                  "name":"jitsiRoom",
@@ -171,6 +191,11 @@
          "opacity":1,
          "properties":[
                 {
+                 "name":"jitsiConfig",
+                 "type":"string",
+                 "value":"{ \"startWithAudioMuted\": true, \"startWithVideoMuted\": false }"
+                }, 
+                {
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"ifs-zone-7"
@@ -193,6 +218,11 @@
          "name":"gamezone-8",
          "opacity":1,
          "properties":[
+                {
+                 "name":"jitsiConfig",
+                 "type":"string",
+                 "value":"{ \"startWithAudioMuted\": true, \"startWithVideoMuted\": false }"
+                }, 
                 {
                  "name":"jitsiRoom",
                  "type":"string",
@@ -231,7 +261,7 @@
                 {
                  "name":"jitsiConfig",
                  "type":"string",
-                 "value":"{ \"startWithAudioMuted\": true, \"startWithVideoMuted\": true }"
+                 "value":"{ \"startWithAudioMuted\": true, \"startWithVideoMuted\": false }"
                 }, 
                 {
                  "name":"jitsiRoom",
